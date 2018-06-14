@@ -6,7 +6,7 @@
 ## Global variables declaration
 REPLY=""
 BACKUP_DIRECTORY="/root/"
-DC_SUFFIX="ldap-easytrip"                        ## Suffix given for backup tracking
+DC_SUFFIX="search-ldap"                        ## Suffix given for backup tracking
 DATA_DIR="/var/lib/ldap/"                        ## Directory containing the directory data
 SETTINGS_DIR="/etc/openldap/"                    ## Directory containing configuration files
 SETTINGS_DIR_PERMISSION="/etc/openldap/slap.d/"  ## Restoration of permission files
